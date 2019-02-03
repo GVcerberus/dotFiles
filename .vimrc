@@ -60,7 +60,7 @@ noremap <leader>f /
 noremap <space> viw
 map ; :Files<CR>
 map <C-o> :NERDTreeToggle<CR>
-map <C-m> :LivedownPreview<CR>
+map <leader>md :LivedownPreview<CR>
 " Format Json
 nnoremap <leader>fj :%!python -m json.tool<cr>
 " Add Timestamp
