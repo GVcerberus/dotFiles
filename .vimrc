@@ -73,7 +73,7 @@ autocmd BufNewFile *.gv :write
 let g:clang_format#detect_style_file=1
 let g:clang_format#auto_format=1
 " You Complete Me Config
-let g:ycm_global_ycm_extra_conf = "~/.vim/.ycm_extra_conf.py"
+let g:ycm_global_ycm_extra_conf = "~/.ycm_global_extra_conf.py"
 " Git - Gutter
 let g:gitgutter_terminal_reports_focus=0
 " Livedown"
