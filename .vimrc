@@ -26,7 +26,8 @@ Plug 'tpope/vim-fugitive'
 Plug 'https://github.com/rhysd/vim-clang-format.git'
 "Plug 'https://github.com/vim-syntastic/syntastic'
 "- Fuzzy File Search
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+"Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug '~/.fzf'
 Plug 'junegunn/fzf.vim'
 " - Status Line.
 Plug 'itchyny/lightline.vim'
